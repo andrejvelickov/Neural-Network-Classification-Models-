@@ -1,0 +1,5 @@
+pro.zip
+.venv/
+cnn/data/
+fcnn/.idea
+.idea/
